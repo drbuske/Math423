@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude"> -->
+  <title>Syllabus</title>
+
+  <!-- Include chapters -->
+  <section xml:id="sec-course-info">
+    <title>Course Information</title>
+
+    <p>
+      This is the syllabus for <term>Complex Analysis with Applications (MATH 423)</term> for Fall 2026.
+      It is a 3-credit course offered through St. Cloud State University.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Instructor</title>
+
+          <p>
+            Dr. Dale Buske, CH 367A, <url href="mailto:drbuske@stcloudstate.edu" visual="drbuske@stcloudstate.edu"/>.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <title>Student Hours</title>
+
+<table xml:id="OfficeHours" >
+<title>Student Support Hours</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Day</alert> </cell>
+<cell> <alert>Times</alert> </cell>
+</row>
+
+<row>
+<cell> Mondays </cell> 
+<cell> 11:00-11:50, 1:00-2:50 </cell>   
+</row>
+
+<row>
+<cell> Tuesdays </cell> 
+<cell> 2:00-2:50 </cell>   
+</row>
+
+<row>
+<cell> Wednesdays </cell> 
+<cell> 9:00-10:50 </cell>   
+</row>
+
+<row>
+<cell> Thursdays </cell> 
+<cell> 1:00-2:50 </cell>   
+</row>
+
+<row>
+<cell> Fridays </cell> 
+<cell> 11:00-11:50 </cell>  
+</row>
+
+</tabular>
+</table>  
+          </p>
+        </li>
+
+        <li>
+          <title>Accessibility Services</title>
+          <p>Please contact Student Accessibility Services (SAS), <url href="mailto:sas@stcloudstate.edu" visual="sas@stcloudstate.edu"/> or 320-308-4080, Centennial Hall 202, to meet and discuss reasonable and appropriate accommodations.
+          </p>
+        </li>
+
+        <li>
+          <title>Class Meetings</title>
+
+          <p>
+            Attendance and active participation in class is strongly correlated to academic success.  You will find attending class to be quite important, useful, and (if all goes well) fun!   
+          </p>
+
+          <!-- <table xml:id="MeetingDates" >
+<title>Exam Dates</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Date</alert> </cell>
+<cell> <alert>Time</alert> </cell>
+</row>
+
+<row>
+<cell> June 2 </cell> 
+<cell> 9:00-10:30 AM </cell>   
+</row>
+
+<row>
+<cell> June 16 </cell> 
+<cell> 9:00-10:30 AM </cell>   
+</row>
+
+<row>
+<cell> June 30 </cell> 
+<cell> 9:00-10:30 AM </cell>   
+</row>
+
+<row>
+<cell> July 14 </cell> 
+<cell> 9:00-10:30 AM </cell>   
+</row>
+
+<row>
+<cell> July 23 </cell> 
+<cell> 9:00-11:15 AM </cell>  
+</row>
+
+</tabular>
+</table> -->
+
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            Algebra and geometry of the complex number field, limits, continuity, analytic and harmonic functions, elementary conformal mappings, series, integrals, residues, and applications to physics and engineering.  3 cr
+          </p>
+        </li>
+
+        <li>
+          <title>Prerequisite</title>
+
+          <p>
+            Math 320 (Multivariable Calculus for Engineers) or Math 321 (Vector and Multivariable Calculus)
+          </p>
+        </li>
+
+        <li>
+          <title>Academic Integrity</title>
+          <p>There is nothing more important in this class than <em>academic integrity</em>.  Sure, you want to master the topics in the course (and perhaps earn a good grade).  Sure, you want to enjoy doing it.  And, it is also important to know that your instructor intends to play his part in helping you be successful.  Succeeding, as you know, will require hard work and significant effort.  Cutting corners will not serve you well.  
+          </p>
+
+          <p>University policy is clear:  
+            <blockquote><p><em>Work submitted by an individual as her/his/their own course work in connection with an application for a position, promotion, tenure, salary increase, or other academic activity must be academically honest and a product of his or her own efforts. (A.II, 2.4, SUB.d.2, Professional and Ethical Standards for Employees and Students).</em></p>
+            </blockquote>
+          </p>
+
+          <p>Cheating cannot be tolerated. All work must be your own.  Suspected incidents of academic dishonesty will be aggressively managed via the <url href="https://policies.stcloudstate.edu/SCSU/Viewer.aspx?id=6" visual="policies.stcloudstate.ed/SCSU/"> procedure found in the SCSU student handbook</url>.  
+          </p>
+        </li>
+
+        <li>
+          <p>
+            In this course, students are likely to use AI tools to enhance their learning experience. However, it is essential to use these tools ethically and responsibly. AI can be a valuable resource for understanding complex concepts and solving problems, but it should not replace your own critical thinking and problem-solving efforts. All submitted work must be your own, and any assistance from AI tools must be properly acknowledged on written work.  The use of AI is forbidden on assessments of your knowledge (e.g. exams). Using AI to complete work without acknowledgment will be considered a violation of academic integrity policies.  In mathematics, AI often gives incorrect responses (i.e. hallucinations) and large language models such as ChatGPT are widely deemed “unreliable” in doing mathematics.  Relaying AI responses that are incorrect will earn no credit.  However, not acknowledging the use of AI in a response is far worse – it is academic misconduct.   
+          </p>
+        </li>
+
+        <li>
+          <title>Course Materials</title>
+
+          <p>
+            The course <term>textbook</term> is <em>Complex Variables and Applications</em> by James Ward Brown and Ruel V. Churchill, McGrow Hill, 8th edition, 2009.  ISBN: 9780073051949. 
+            </p>   
+          <p>
+            Course materials beyond the textbook and course packet can be found at <url href="https://drbuske.github.io/Math423/course/frontmatter.html">https://drbuske.github.io/Math423/course/</url>.  There you will find items that include the course syllabus.  
+          </p>
+            
+          <p>
+            <term>D2L Brightspace</term> will be the learning management tool used to organize the course.  Grades, a calendar, and assignments as well as announcements will be posted on D2L.  Visit <url href="http://myhuskynet.stcloudstate.edu" visual="http://myhuskynet.stcloudstate.edu"/> and login to your account using your Huskynet ID and password.  
+          </p>
+
+        </li>
+      </dl>
+    </p>
+
+  <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>Tips for Success</title>
+
+      <p>
+        Engage your peers.  Engage your instructor.  Your success is in their best interest too!  Mathematics is a discipline that benefits greatly from working together in gaining a deep understanding.  
+      </p>
+      <p>
+      Practice.  <em>Do</em> math.  Watching others do math is a passive activity with far less value than attempting to solve problems. We learn from our mistakes and struggles.  If it were easy, everyone would do it and it would have less value. Remember the rule of thumb – expect to study 2-3 hours outside of class for every hour in class.  That means 8-12 hours per week of study out of class!   
+      </p>
+      <p>
+        Assignments have been structured to maximize your learning experience.  This effort is as critical as any in your success.  95% of what you learn will be outside the classroom.  Faithfully attempting the assignments is a significant piece of this learning. 
+      </p>
+    </paragraphs>
+  </section>
+
+
+
+  <section>
+    <title>Topics and Learning Outcomes</title>
+    <p>
+      <dl>
+        <li>
+          <title>Topics</title>
+          <p>
+            <em>Complex numbers: </em> Sums and Products.  Basic Algebraic Properties.  Moduli.  Complex Conjugates.  Exponential Form.  Roots of Complex Numbers.  Regions in the Complex Plane.    
+          </p>
+
+          <p>
+            <em>Analytic Functions: </em> Functions of a Complex Variable.  Mappings.  Limits.  Theorems on Limits.  Limits Involving the Point at Infinity.  Continuity.  Derivatives.  Differentiation Formulas.  Cauchy-Riemann Equations.  Sufficient Conditions for Differentiability.  Polar Coordinates.  Analytic Functions.  Harmonic Functions.  
+          </p>
+
+          <p> <em>Elementary Functions: </em> The Exponential Function.  The Logarithmic Function.  Branches and Derivatives of Logarithms.  Complex Exponents.  Trigonometric and Hyperbolic Functions.  Inverse Trigonometric and Hyperbolic Functions. 
+          </p>
+
+          <p> <em>Integrals:</em> Derivatives of Functions <m>w(t)</m>. Definite Integrals of Functions <m>w(t)</m>.  Contours and Contour Integrals. Antiderivatives.  Cauchy-Goursat Theorem.  Simply and Multiply Connected Domains.  Cauchy Integral Formula.  Derivatives of Analytic Functions.  Liouville’s Theorem and the Fundamental Theorem of Algebra.     
+          </p>
+
+          <p> <em>Series: </em> Convergence of Sequences and Series.  Taylor and Laurent Series.  Absolute and Uniform Convergence of Power Series.  Continuity of Sums of Power Series.  Integration and Differentiation of Power Series.  Uniqueness of Series Representations.     
+          </p>
+
+         <p> <em>Residues and Poles: </em> Residues and Cauchy’s Residue Theorem.  The Three Types of Isolated Singular Points.  Residues at Poles.  Zeros of Analytic Functions.  Zeros and Poles.  Behavior of Functions Near Isolated Singular Points.  Evaluation of Improper Integrals.     
+          </p>
+
+        </li>
+
+        <li>
+          <title>Learning Outcomes</title>
+          <p>
+            <ul>
+  <li>Perform basic algebraic operations using various representations of the complex number system.</li>
+  <li>Prove simple facts about the topology of the complex number system and functions of a single complex variable.</li>
+  <li>Compare and contrast functions of a real variable and functions of a complex variable.</li>
+  <li>Identify and differentiate analytic functions.</li>
+  <li>Find harmonic functions that solve classical applied problems in mathematics.</li>
+  <li>Define complex generalizations of the definite integral of a function of a real variable.</li>
+  <li>Compute contour integrals.</li>
+  <li>State the Cauchy Integral Formula and Liouville’s Theorem.</li>
+  <li>Compute the Taylor and Laurent expansions of simple functions, determining the nature of the singularities, regions of convergence, and calculating residues</li>
+  <li>State and apply named theorems of calculus (the Intermediate Value Theorem, the Mean Value Theorem, and the Fundamental Theorem of Calculus).</li>
+  <li>Use the Cauchy Residue Theorem to evaluate integrals.</li>
+</ul>
+          </p>
+        </li>
+      </dl>
+    </p>
+  </section>
+  
+  <section xml:id="subsec-calendar">
+    <title>Calendar</title>
+    <p>
+      Below is an estimate for when we will discuss various topics in the text and when exams are scheduled.     
+    </p>
+
+<table xml:id="schedule-table">
+  <title>Course Schedule</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+      <cell><alert>Week Starting</alert></cell>
+      
+      <cell><alert>Tuesday</alert></cell>
+      <!-- <cell><alert>Wednesday</alert></cell> -->
+      <cell><alert>Thursday</alert></cell>
+      
+    </row>
+
+    <row>
+      <cell><alert>8/24</alert></cell>
+
+      <cell>1-2</cell>
+      <!-- <cell>1.3 Computation with Sage</cell> -->
+      <cell>3-4 </cell>
+
+    </row>
+
+    <row>
+      <cell><alert>8/31</alert></cell>
+      
+      <cell>5-7</cell>
+      <!-- <cell>2.3 The span of a set of vectors</cell> -->
+      <cell>8-10</cell>
+
+    </row>
+
+    <row>
+      <cell><alert>9/7</alert></cell>
+   
+      <cell>11-13</cell>
+      <!-- <cell>1.5</cell> -->
+      <cell>14-16</cell>
+
+    </row>
+
+    <row>
+      <cell><alert>9/14</alert></cell>
+ 
+      <cell>17-19</cell>
+      <!-- <cell><alert>Review &amp; Exam 3</alert></cell> -->
+      <cell>20-21</cell>
+
+    </row>
+
+    <row>
+      <cell><alert>9/21</alert></cell>
+
+      <cell>22-25</cell>
+      <!-- <cell>5.1 Definition of vector spaces</cell> -->
+      <cell>26-28</cell>
+
+    </row>
+
+    <row>
+      <cell><alert>9/28</alert></cell>
+
+      <cell>Exam 1</cell>
+      <!-- <cell>6.1 The dot product</cell> -->
+      <cell>29-31</cell>
+
+    </row>
+
+    <row>
+      <cell><alert>10/5</alert></cell>
+  
+      <cell>32-35</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>36-37</cell>
+
+    </row>
+
+        <row>
+      <cell><alert>10/12</alert></cell>
+  
+      <cell>38-39</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>40-41</cell>
+
+    </row>
+
+      <row>
+      <cell><alert>10/19</alert></cell>
+
+      <cell>42-43</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>44-46</cell>
+
+    </row>
+
+     <row>
+      <cell><alert>10/26</alert></cell>
+
+      <cell>47-48</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>49-50</cell>
+
+    </row>
+
+      <row>
+      <cell><alert>11/2</alert></cell>
+
+      <cell>51-52</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>Exam 2</cell>
+
+    </row>
+
+      <row>
+      <cell><alert>11/9</alert></cell>
+      <cell>53-54</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>55-58</cell>
+    </row>
+
+     <row>
+      <cell><alert>11/16</alert></cell>
+
+      <cell>59-62</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>63-66</cell>
+
+    </row>
+
+         <row>
+      <cell><alert>11/23</alert></cell>
+
+      <cell>68-70</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell><em>No Class</em></cell>
+
+    </row>
+
+      <row>
+      <cell><alert>11/30</alert></cell>
+
+      <cell>71-72</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+      <cell>73-75</cell>
+
+    </row>
+
+  </tabular>
+</table>
+
+    <p>
+      Exams will cover the following material from the course.
+    </p>
+
+    <table xml:id="ExamDates" >
+<title>Exam dates and topics</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Exam</alert> </cell>
+<cell> <alert>Date</alert> </cell>
+<cell> <alert>Topics</alert> </cell>
+</row>
+
+<row>
+<cell> Exam 1 </cell> 
+<cell> September 29 </cell> 
+<cell> Sections 1-28 </cell>     
+</row>
+
+<row>
+<cell> Exam 2 </cell> 
+<cell> November 5 </cell>  
+<cell> Sections 29-52 </cell>  
+</row>
+
+
+
+<row>
+<cell> Final Exam </cell> 
+<cell> See <url href="https://www.stcloudstate.edu/registrar/registration/finals.aspx">SCSU final exam schedule</url> </cell> 
+<cell> Sections 1-75 </cell> 
+</row>
+
+</tabular>
+</table>
+
+<p>
+To be successful, sufficient time will need to be dedicated to your studies.  Studying on weekends to get ahead, especially if holding a job or other commitments during the work week, will be helpful.  Below is a table with time you might expect to spend on each aspect of the course (for each day of class).  
+</p>
+
+<table xml:id="StudyTime" >
+<title>Estimated Time on Various Aspects of the Course</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Item</alert> </cell>
+<cell> <alert>Estimated Time Per Section</alert> </cell>
+</row>
+
+<row>
+<cell> Reading Textbook </cell> 
+<cell> 60-90 minutes </cell>     
+</row>
+
+<row>
+<cell> Written Homework </cell> 
+<cell> 60-120 minutes </cell>    
+</row>
+
+<row>
+<cell> Reviewing Notes </cell> 
+<cell> 15 minutes </cell>  
+</row>
+
+</tabular>
+</table>
+
+  </section> 
+
+  <!-- Other subsections for larger dividers -->
+  <section xml:id="sec-assessments">
+    <title>Assessments and Grades</title>
+
+    <p>
+<dl>
+  
+
+      <li>
+        <title>Written Homework</title>
+        <p>
+          Each Thursday, hand-written solutions to problems from the textbook will be due.  Additional problems that are not from the textbook may also be assigned from time-to-time.  You must document names of other people (e.g. students, faculty) and AI systems that you consult.  Overconsultation with AI systems will likely be obvious, potentially non-productive, and potentially academically dishonest.  Remember that your goal in this class is to learn mathematics and the honest struggle is often the best way to navigate towards this goal.  
+        </p>
+
+        <table xml:id="schedule-table-homework">
+  <title>Written Homework Assignments</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+      <cell><alert>Due Date</alert></cell>
+      
+      <cell><alert>Questions</alert></cell>
+      <!-- <cell><alert>Wednesday</alert></cell> -->
+      
+      
+    </row>
+
+    <row>
+      <cell><alert>8/27</alert></cell>
+
+      <cell>Section 2: #1(a), 2(b), 9, 10</cell>
+      <!-- <cell>1.3 Computation with Sage</cell> -->
+
+    </row>
+
+    <row>
+      <cell><alert>9/3</alert></cell>
+      
+      <cell>Section 3: #2; Section 4: #4, 5; Section 5: #2, 7, 9, 11, 12</cell>
+      <!-- <cell>2.3 The span of a set of vectors</cell> -->
+
+    </row>
+
+    <row>
+      <cell><alert>9/10</alert></cell>
+   
+      <cell>Section 8: #1(b), 3, 4, 5(c); Section 10: #3(a), 8(b); Section 11: #1(a)(c)(e)(f), 2,  6, 7(a)(b); Section 12: 1(a)(d), 3, 4</cell>
+      <!-- <cell>1.5</cell> -->
+
+    </row>
+
+    <row>
+      <cell><alert>9/17</alert></cell>
+ 
+      <cell>Section 14: #2, 3, 7; Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)</cell>
+      <!-- <cell><alert>Review &amp; Exam 3</alert></cell> -->
+
+
+    </row>
+
+    <row>
+      <cell><alert>9/24</alert></cell>
+
+      <cell>Section 20: #4, 6, 7, 8; Section 23: #1(b), 2(c), 3(c), 4(b), 8</cell>
+      <!-- <cell>5.1 Definition of vector spaces</cell> -->
+
+
+    </row>
+
+    <row>
+      <cell><alert>10/1</alert></cell>
+
+      <cell>Section 25: #1(b), 2(c), 7; Section 26: #1(d), 2, 3, 5 </cell>
+      <!-- <cell>6.1 The dot product</cell> -->
+
+
+    </row>
+
+    <row>
+      <cell><alert>10/8</alert></cell>
+  
+      <cell>Section 29: #3, 5, 7, 8(b), 10, 13; Section 31: #1(a), 4(b), 5(b); Section 32: #1, 3; Section 33: #2(c), 3, 9; Section 34: #2, 9, 11, 13</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+    </row>
+
+        <row>
+      <cell><alert>10/15</alert></cell>
+  
+      <cell>Section 35: #3, 6, 15(b); Section 36: #1(b), 5; Section 38: #1(b), 3, 4, 5; Section 39: #1(a), 5</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+    </row>
+
+      <row>
+      <cell><alert>10/22</alert></cell>
+
+      <cell>Section 42: #1, 2, 4, 6, 7, 10; Section 43: #1, 2, 4</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+  
+
+    </row>
+
+     <row>
+      <cell><alert>10/29</alert></cell>
+
+      <cell>Section 45: #3, 5</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+
+    </row>
+
+      <row>
+      <cell><alert>11/5</alert></cell>
+
+      <cell>Section 49: #1(a)(f), 3, 6; Section 52: #1(a)(b), 2(a), 3, 7</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+ 
+
+    </row>
+
+      <row>
+      <cell><alert>11/12</alert></cell>
+      <cell>Section 54: #1, 3, 4, 5</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+  
+    </row>
+
+     <row>
+      <cell><alert>11/19</alert></cell>
+
+      <cell>Section 56: #3, 4, 6; Section 59: #1, 3, 6, 7; Section 62: 1, 3, 5, 6, 7</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+
+    </row>
+
+         <row>
+      <cell><alert>11/26</alert></cell>
+
+      <cell>Nothing Due</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+
+    </row>
+
+      <row>
+      <cell><alert>12/3</alert></cell>
+
+      <cell>Section 66: #3, 4, 6, 11</cell>
+      <!-- <cell>6.5 Orthogonal least squares</cell> -->
+
+
+    </row>
+
+  </tabular>
+</table>
+
+      </li>
+
+      <li>
+        <title>Exams</title>
+        <p>
+          There will be two (2) in-class written, proctored exams, and one (1) final written, proctored exam.  Each exam may have a take-home component.   All exams will be independent assessments of your knowledge. 
+        </p>
+  
+        <p>
+        The oral exams will be 15-20 minutes in length.  The first will take place just prior to midterm and the second will take place during the last two weeks of the term.   The concept may seem intimidating at first, but past student response suggest this to be a valuable means of assessment and academic growth.
+        </p>
+
+        <table xml:id="OralExamRubric" >
+<title>Oral Exam Rubric</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Points</alert> </cell>
+<cell> <alert>Description</alert> </cell>
+</row>
+
+<row>
+<cell> 1  </cell> 
+<cell> Unsatisfactory execution and/or communication with fundamental errors.   </cell>     
+</row>
+
+<row>
+<cell> 2 </cell> 
+<cell> Flawed execution with nontrivial errors and poor communication.  </cell>    
+</row>
+
+<row>
+<cell> 3 </cell> 
+<cell> Adequately executed but with some nontrivial errors and inconsistent communication.   </cell>  
+</row>
+
+<row>
+<cell> 4 </cell> 
+<cell> Generally well-executed but may have minor communication flaws and some math errors.  </cell>  
+</row>
+
+<row>
+  <cell>5</cell>
+  <cell>Well-executed, well-communicated, essentially correct.</cell>
+</row>
+
+</tabular>
+</table>
+
+      </li>
+
+      <li>
+        <title>Grading</title>
+        <p>
+          I will use my best professional judgment in determining grades. While many courses utilize 90%, 80%, 70%, and 60% as cutoffs for A, B, C, and D grades, these will serve only as guidelines.  Averages above these marks will guarantee these grades but lower marks may earn higher final grades.  
+        </p>
+
+        <table xml:id="GradeWeights" >
+<title>Grade weighting</title>
+<tabular halign="center" bottom="minor" top="minor">
+<row header="no" bottom="medium" top="medium">
+<cell> <alert>Item</alert> </cell>
+<cell> <alert>Weighting</alert> </cell>
+</row>
+
+<row>
+<cell> Written Homework) </cell> 
+<cell> 27% </cell>     
+</row>
+
+<row>
+<cell> Written Exams (2) </cell> 
+<cell> 36% </cell>  
+</row>
+
+<row>
+<cell> Oral Exams (2) </cell> 
+<cell> 10% </cell>  
+</row>
+
+<row>
+<cell> Final Exam </cell> 
+<cell> 27% </cell>  
+</row>
+
+</tabular>
+</table>
+      </li>
+</dl>
+    </p>
+
+  </section>
+
+ 
+
+</chapter>
