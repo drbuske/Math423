@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Assessments and Grades",
-  "body": " Assessments and Grades     Homework  Each Thursday, hand-written solutions to problems from the textbook will be due. Additional problems that are not from the textbook may also be assigned from time-to-time. You must document names of other people (e.g. students, faculty) and AI systems that you consult. Overconsultation with AI systems will likely be obvious, potentially non-productive, and potentially academically dishonest. Remember that your goal in this class is to learn mathematics and the honest struggle is often the best way to navigate towards this goal.   Written Homework Assignments    Due Date  Questions     8\/27  Section 2: #1(a), 2(b), 9, 10     9\/3  Section 3: #2;  Section 4: #4, 5;  Section 5: #2, 7, 9, 11, 12     9\/10  Section 8: #1(b), 3, 4, 5(c);  Section 10: #3(a), 8(b);  Section 11: #1(a)(c)(e)(f), 2, 6, 7(a)(b);  Section 12: 1(a)(d), 3, 4      9\/17  Section 14: #2, 3, 7;  Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)     9\/24  Section 20: #4, 6, 7, 8;  Section 23: #1(b), 2(c), 3(c), 4(b), 8     10\/1  Section 25: #1(b), 2(c), 7;  Section 26: #1(d), 2, 3, 5     10\/8  Section 29: #3, 5, 7, 8(b), 10, 13;  Section 31: #1(a), 4(b), 5(b);  Section 32: #1, 3;  Section 33: #2(c), 3, 9;  Section 34: #2, 9, 11, 13      10\/15  Section 35: #3, 6, 15(b);  Section 36: #1(b), 5;  Section 38: #1(b), 3, 4, 5;  Section 39: #1(a), 5      10\/22  Section 42: #1, 2, 4, 6, 7, 10;  Section 43: #1, 2, 4      10\/29  Section 45: #3, 5     11\/5  Section 49: #1(a)(f), 3, 6;  Section 52: #1(a)(b), 2(a), 3, 7      11\/12  Section 54: #1, 3, 4, 5     11\/19  Section 56: #3, 4, 6;  Section 59: #1, 3, 6, 7;  Section 62: 1, 3, 5, 6, 7     11\/26  Nothing Due     12\/3  Section 66: #3, 4, 6, 11        Exams  There will be two (2) in-class written, proctored exams, and one (1) final written, proctored exam. Each exam may have a take-home component. All exams will be independent assessments of your knowledge.  The oral exams will be 15-20 minutes in length. The first will take place just prior to midterm and the second will take place during the last two weeks of the term. The concept may seem intimidating at first, but past student response suggest this to be a valuable means of assessment and academic growth.   Oral Exam Rubric     Points    Description     1  Unsatisfactory execution and\/or communication with fundamental errors.    2  Flawed execution with nontrivial errors and poor communication.    3  Adequately executed but with some nontrivial errors and inconsistent communication.    4  Generally well-executed but may have minor communication flaws and some math errors.    5  Well-executed, well-communicated, essentially correct.       Grading  I will use my best professional judgment in determining grades. While many courses utilize 90%, 80%, 70%, and 60% as cutoffs for A, B, C, and D grades, these will serve only as guidelines. Averages above these marks will guarantee these grades but lower marks may earn higher final grades.   Grade weighting     Item    Weighting     Written Homework)  27%    Written Exams (2)  36%    Oral Exams (2)  10%    Final Exam  27%        "
+  "body": " Assessments and Grades     Homework  Each Thursday, hand-written solutions to problems from the textbook will be due. Additional problems that are not from the textbook may also be assigned from time-to-time. You must document names of other people (e.g. students, faculty) and AI systems that you consult. Overconsultation with AI systems will likely be obvious, potentially non-productive, and potentially academically dishonest. Remember that your goal in this class is to learn mathematics and the honest struggle is often the best way to navigate towards this goal.   Written Homework Assignments    Due Date  Questions     8\/27  Section 2: #1(a), 2(b), 9, 10     9\/3  Section 3: #2;  Section 4: #4, 5;  Section 5: #2, 7, 9, 11, 12     9\/15  Section 8: #1(b), 3, 4, 5(c);  Section 10: #3(a), 8(b);  Section 11: #1(a)(c)(e)(f), 2, 6, 7(a)(b);  Section 12: 1(a)(d), 3, 4      9\/22  Section 14: #2, 3, 7;  Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)     9\/29  Section 20: #4, 6, 7, 8;  Section 23: #1(b), 2(c), 3(c), 4(b), 8     10\/6  Section 25: #1(b), 2(c), 7;  Section 26: #1(d), 2, 3, 5     10\/13  Section 29: #3, 5, 7, 8(b), 10, 13;  Section 31: #1(a), 4(b), 5(b);  Section 32: #1, 3;  Section 33: #2(c), 3, 9;  Section 34: #2, 9, 11, 13      10\/20  Section 35: #3, 6, 15(b);  Section 36: #1(b), 5;  Section 38: #1(b), 3, 4, 5;  Section 39: #1(a), 5      10\/27  Section 42: #1, 2, 4, 6, 7, 10;  Section 43: #1, 2, 4      11\/3  Section 45: #3, 5     11\/10  Section 49: #1(a)(f), 3, 6;  Section 52: #1(a)(b), 2(a), 3, 7      11\/17  Section 54: #1, 3, 4, 5     11\/24  Section 56: #3, 4, 6;  Section 59: #1, 3, 6, 7;  Section 62: 1, 3, 5, 6, 7     12\/1  Nothing Due     At final exam  Section 66: #3, 4, 6, 11        Exams  There will be two (2) in-class written, proctored exams, and one (1) final written, proctored exam. Each exam may have a take-home component. All exams will be independent assessments of your knowledge.  The oral exams will be 15-20 minutes in length. The first will take place just prior to midterm and the second will take place during the last two weeks of the term. The concept may seem intimidating at first, but past student response suggest this to be a valuable means of assessment and academic growth.   Oral Exam Rubric     Points    Description     1  Unsatisfactory execution and\/or communication with fundamental errors.    2  Flawed execution with nontrivial errors and poor communication.    3  Adequately executed but with some nontrivial errors and inconsistent communication.    4  Generally well-executed but may have minor communication flaws and some math errors.    5  Well-executed, well-communicated, essentially correct.       Grading  I will use my best professional judgment in determining grades. While many courses utilize 90%, 80%, 70%, and 60% as cutoffs for A, B, C, and D grades, these will serve only as guidelines. Averages above these marks will guarantee these grades but lower marks may earn higher final grades.   Grade weighting     Item    Weighting     Written Homework)  27%    Written Exams (2)  36%    Oral Exams (2)  10%    Final Exam  27%        "
 },
 {
   "id": "schedule-table-homework",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "5",
   "title": "Written Homework Assignments",
-  "body": " Written Homework Assignments    Due Date  Questions     8\/27  Section 2: #1(a), 2(b), 9, 10     9\/3  Section 3: #2;  Section 4: #4, 5;  Section 5: #2, 7, 9, 11, 12     9\/10  Section 8: #1(b), 3, 4, 5(c);  Section 10: #3(a), 8(b);  Section 11: #1(a)(c)(e)(f), 2, 6, 7(a)(b);  Section 12: 1(a)(d), 3, 4      9\/17  Section 14: #2, 3, 7;  Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)     9\/24  Section 20: #4, 6, 7, 8;  Section 23: #1(b), 2(c), 3(c), 4(b), 8     10\/1  Section 25: #1(b), 2(c), 7;  Section 26: #1(d), 2, 3, 5     10\/8  Section 29: #3, 5, 7, 8(b), 10, 13;  Section 31: #1(a), 4(b), 5(b);  Section 32: #1, 3;  Section 33: #2(c), 3, 9;  Section 34: #2, 9, 11, 13      10\/15  Section 35: #3, 6, 15(b);  Section 36: #1(b), 5;  Section 38: #1(b), 3, 4, 5;  Section 39: #1(a), 5      10\/22  Section 42: #1, 2, 4, 6, 7, 10;  Section 43: #1, 2, 4      10\/29  Section 45: #3, 5     11\/5  Section 49: #1(a)(f), 3, 6;  Section 52: #1(a)(b), 2(a), 3, 7      11\/12  Section 54: #1, 3, 4, 5     11\/19  Section 56: #3, 4, 6;  Section 59: #1, 3, 6, 7;  Section 62: 1, 3, 5, 6, 7     11\/26  Nothing Due     12\/3  Section 66: #3, 4, 6, 11     "
+  "body": " Written Homework Assignments    Due Date  Questions     8\/27  Section 2: #1(a), 2(b), 9, 10     9\/3  Section 3: #2;  Section 4: #4, 5;  Section 5: #2, 7, 9, 11, 12     9\/15  Section 8: #1(b), 3, 4, 5(c);  Section 10: #3(a), 8(b);  Section 11: #1(a)(c)(e)(f), 2, 6, 7(a)(b);  Section 12: 1(a)(d), 3, 4      9\/22  Section 14: #2, 3, 7;  Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)     9\/29  Section 20: #4, 6, 7, 8;  Section 23: #1(b), 2(c), 3(c), 4(b), 8     10\/6  Section 25: #1(b), 2(c), 7;  Section 26: #1(d), 2, 3, 5     10\/13  Section 29: #3, 5, 7, 8(b), 10, 13;  Section 31: #1(a), 4(b), 5(b);  Section 32: #1, 3;  Section 33: #2(c), 3, 9;  Section 34: #2, 9, 11, 13      10\/20  Section 35: #3, 6, 15(b);  Section 36: #1(b), 5;  Section 38: #1(b), 3, 4, 5;  Section 39: #1(a), 5      10\/27  Section 42: #1, 2, 4, 6, 7, 10;  Section 43: #1, 2, 4      11\/3  Section 45: #3, 5     11\/10  Section 49: #1(a)(f), 3, 6;  Section 52: #1(a)(b), 2(a), 3, 7      11\/17  Section 54: #1, 3, 4, 5     11\/24  Section 56: #3, 4, 6;  Section 59: #1, 3, 6, 7;  Section 62: 1, 3, 5, 6, 7     12\/1  Nothing Due     At final exam  Section 66: #3, 4, 6, 11     "
 },
 {
   "id": "OralExamRubric",
@@ -98,6 +98,330 @@ var ptx_lunr_docs = [
   "number": "7",
   "title": "Grade weighting",
   "body": " Grade weighting     Item    Weighting     Written Homework)  27%    Written Exams (2)  36%    Oral Exams (2)  10%    Final Exam  27%    "
+},
+{
+  "id": "complexnumbers",
+  "level": "1",
+  "url": "complexnumbers.html",
+  "type": "Handout",
+  "number": "",
+  "title": "Complex Numbers",
+  "body": " Complex Numbers   Sums and Products   Complex Numbers      Complex numbers of the form correspond to points on the real axis. Complex numbers of the form correspond to points on the imaginary axis and are called pure imaginary numbers.     Plot the complex number in the complex plane.        It is customary to denote a complex number by so that . When this is done, we have Re( ) = _____ and Im( ) = _____.        How can you check whether two complex numbers and are equal?       Basic Algebraic Properties     The associative property of complex multiplication states that for all complex numbers , , and ,   State each of the following properties.   The associative property of complex addition.  The commutative property of complex multiplication.  The commutative property of complex addition.  A distributive property for the complex numbers.         Suppose that you wish to compute . Should you multiply and together first, or should you multiply and together first? Explain.        Use the associative law for addition and the distributive law to show that       Additive and Multiplicative Identities   The additive identity  and the multiplicative identity  for carry over to . That is, and for every .      What is the multiplicative inverse of the complex number ? Is it unique?   Hint. If is such an inverse, then   This fact gives two equations in the two unknowns and .       What is the additive inverse of a complex number ?  Prove that any complex number that is added to and sums to is indeed the additive inverse found in part (a).   That is, prove that the additive inverse found in part (a) is unique.      Reduce each of the following quantities to a real number.                 Use the associative and commutative laws for multiplication to show that       Solve the equation   for by writing   and then solving a pair of simultaneous equations in and .   Suggestion. Use the fact that no real number satisfies the given equation to show that .      Further Algebraic Properties   Division   For , we define   where is the multiplicative inverse of .      Suppose that   for some real numbers and . Determine these values.      Let and be complex numbers.   Write as a linear combination of powers of and .  Prove by mathematical induction that    for every integer .      Vectors and Moduli   A complex number represented as a vector in the complex plane.   The complex plane is shown with horizontal real axis and vertical imaginary axis. A vector extends from the origin to a point in the first quadrant labeled z=x+iy. The diagram illustrates the correspondence between a complex number and a vector in the plane.     With each nonzero complex number we can associate a vector.   Vector addition represented by a parallelogram.   Addition of complex numbers is the same as vector addition. That is, is the vector that forms the diagonal of the parallelogram determined by and .   Modulus   The modulus of a complex number is       is the length of the vector representing .  If is real, then is simply its absolute value.  While has no meaning, does.     Compute , , and . What does this tell you about the relationship among these three complex numbers?     Distance   The distance between two complex numbers and is      The vector from to .     Geometrically describe the set of all points satisfying the following conditions.                 Locate the numbers and vectorially when    , .   , .       Geometrically describe the set       Geometrically describe the set      Relationship among the real part, imaginary part, and modulus of a complex number.   From the diagram, we have    and     Complex Conjugates   Complex Conjugate   The complex conjugate of is   Geometrically, is the reflection of across the real axis.      Prove any three of the following statements.                Sketch the set of points satisfying .      When and are nonzero, show that   and        Prove by induction that conjugation distributes over finite sums and products.  If are real, prove that        The triangle inequality states that    Explain this geometrically.  Prove it algebraically.       Show that   whenever .      Show that if , then      "
+},
+{
+  "id": "def-complex-numbers",
+  "level": "2",
+  "url": "complexnumbers.html#def-complex-numbers",
+  "type": "Definition",
+  "number": "8",
+  "title": "Complex Numbers.",
+  "body": " Complex Numbers     "
+},
+{
+  "id": "ex-complex-1",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-1",
+  "type": "Checkpoint",
+  "number": "9",
+  "title": "",
+  "body": "   Plot the complex number in the complex plane.    "
+},
+{
+  "id": "ex-complex-2",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-2",
+  "type": "Checkpoint",
+  "number": "10",
+  "title": "",
+  "body": "   It is customary to denote a complex number by so that . When this is done, we have Re( ) = _____ and Im( ) = _____.    "
+},
+{
+  "id": "ex-complex-3",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-3",
+  "type": "Checkpoint",
+  "number": "11",
+  "title": "",
+  "body": "   How can you check whether two complex numbers and are equal?    "
+},
+{
+  "id": "ex-complex-9",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-9",
+  "type": "Checkpoint",
+  "number": "12",
+  "title": "",
+  "body": "   The associative property of complex multiplication states that for all complex numbers , , and ,   State each of the following properties.   The associative property of complex addition.  The commutative property of complex multiplication.  The commutative property of complex addition.  A distributive property for the complex numbers.     "
+},
+{
+  "id": "ex-complex-10",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-10",
+  "type": "Checkpoint",
+  "number": "13",
+  "title": "",
+  "body": "   Suppose that you wish to compute . Should you multiply and together first, or should you multiply and together first? Explain.    "
+},
+{
+  "id": "ex-complex-11",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-11",
+  "type": "Checkpoint",
+  "number": "14",
+  "title": "",
+  "body": "   Use the associative law for addition and the distributive law to show that     "
+},
+{
+  "id": "def-identities",
+  "level": "2",
+  "url": "complexnumbers.html#def-identities",
+  "type": "Definition",
+  "number": "15",
+  "title": "Additive and Multiplicative Identities.",
+  "body": " Additive and Multiplicative Identities   The additive identity  and the multiplicative identity  for carry over to . That is, and for every .   "
+},
+{
+  "id": "ex-complex-12",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-12",
+  "type": "Checkpoint",
+  "number": "16",
+  "title": "",
+  "body": "  What is the multiplicative inverse of the complex number ? Is it unique?   Hint. If is such an inverse, then   This fact gives two equations in the two unknowns and .   "
+},
+{
+  "id": "ex-complex-13",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-13",
+  "type": "Checkpoint",
+  "number": "17",
+  "title": "",
+  "body": "   What is the additive inverse of a complex number ?  Prove that any complex number that is added to and sums to is indeed the additive inverse found in part (a).   That is, prove that the additive inverse found in part (a) is unique.   "
+},
+{
+  "id": "ex-complex-14",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-14",
+  "type": "Checkpoint",
+  "number": "18",
+  "title": "",
+  "body": "  Reduce each of the following quantities to a real number.              "
+},
+{
+  "id": "ex-complex-15",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-15",
+  "type": "Checkpoint",
+  "number": "19",
+  "title": "",
+  "body": "  Use the associative and commutative laws for multiplication to show that    "
+},
+{
+  "id": "ex-complex-16",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-16",
+  "type": "Checkpoint",
+  "number": "20",
+  "title": "",
+  "body": "  Solve the equation   for by writing   and then solving a pair of simultaneous equations in and .   Suggestion. Use the fact that no real number satisfies the given equation to show that .   "
+},
+{
+  "id": "def-division",
+  "level": "2",
+  "url": "complexnumbers.html#def-division",
+  "type": "Definition",
+  "number": "21",
+  "title": "Division.",
+  "body": " Division   For , we define   where is the multiplicative inverse of .   "
+},
+{
+  "id": "ex-complex-17",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-17",
+  "type": "Checkpoint",
+  "number": "22",
+  "title": "",
+  "body": "  Suppose that   for some real numbers and . Determine these values.   "
+},
+{
+  "id": "ex-complex-18",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-18",
+  "type": "Checkpoint",
+  "number": "23",
+  "title": "",
+  "body": "  Let and be complex numbers.   Write as a linear combination of powers of and .  Prove by mathematical induction that    for every integer .   "
+},
+{
+  "id": "fig-complex-number-vector",
+  "level": "2",
+  "url": "complexnumbers.html#fig-complex-number-vector",
+  "type": "Figure",
+  "number": "24",
+  "title": "",
+  "body": " A complex number represented as a vector in the complex plane.   The complex plane is shown with horizontal real axis and vertical imaginary axis. A vector extends from the origin to a point in the first quadrant labeled z=x+iy. The diagram illustrates the correspondence between a complex number and a vector in the plane.    "
+},
+{
+  "id": "fig-vector-addition",
+  "level": "2",
+  "url": "complexnumbers.html#fig-vector-addition",
+  "type": "Figure",
+  "number": "25",
+  "title": "",
+  "body": " Vector addition represented by a parallelogram.  "
+},
+{
+  "id": "def-modulus",
+  "level": "2",
+  "url": "complexnumbers.html#def-modulus",
+  "type": "Definition",
+  "number": "26",
+  "title": "Modulus.",
+  "body": " Modulus   The modulus of a complex number is    "
+},
+{
+  "id": "ex-complex-19",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-19",
+  "type": "Checkpoint",
+  "number": "27",
+  "title": "",
+  "body": "  Compute , , and . What does this tell you about the relationship among these three complex numbers?   "
+},
+{
+  "id": "def-distance",
+  "level": "2",
+  "url": "complexnumbers.html#def-distance",
+  "type": "Definition",
+  "number": "28",
+  "title": "Distance.",
+  "body": " Distance   The distance between two complex numbers and is    "
+},
+{
+  "id": "fig-distance",
+  "level": "2",
+  "url": "complexnumbers.html#fig-distance",
+  "type": "Figure",
+  "number": "29",
+  "title": "",
+  "body": " The vector from to .  "
+},
+{
+  "id": "ex-complex-20",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-20",
+  "type": "Checkpoint",
+  "number": "30",
+  "title": "",
+  "body": "  Geometrically describe the set of all points satisfying the following conditions.              "
+},
+{
+  "id": "ex-complex-21",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-21",
+  "type": "Checkpoint",
+  "number": "31",
+  "title": "",
+  "body": "  Locate the numbers and vectorially when    , .   , .    "
+},
+{
+  "id": "ex-complex-22",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-22",
+  "type": "Checkpoint",
+  "number": "32",
+  "title": "",
+  "body": "  Geometrically describe the set    "
+},
+{
+  "id": "ex-complex-23",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-23",
+  "type": "Checkpoint",
+  "number": "33",
+  "title": "",
+  "body": "  Geometrically describe the set    "
+},
+{
+  "id": "fig-re-im-modulus",
+  "level": "2",
+  "url": "complexnumbers.html#fig-re-im-modulus",
+  "type": "Figure",
+  "number": "34",
+  "title": "",
+  "body": " Relationship among the real part, imaginary part, and modulus of a complex number.  "
+},
+{
+  "id": "def-complex-conjugate",
+  "level": "2",
+  "url": "complexnumbers.html#def-complex-conjugate",
+  "type": "Definition",
+  "number": "35",
+  "title": "Complex Conjugate.",
+  "body": " Complex Conjugate   The complex conjugate of is   Geometrically, is the reflection of across the real axis.   "
+},
+{
+  "id": "ex-complex-24",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-24",
+  "type": "Checkpoint",
+  "number": "36",
+  "title": "",
+  "body": "  Prove any three of the following statements.             "
+},
+{
+  "id": "ex-complex-25",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-25",
+  "type": "Checkpoint",
+  "number": "37",
+  "title": "",
+  "body": "  Sketch the set of points satisfying .   "
+},
+{
+  "id": "ex-complex-26",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-26",
+  "type": "Checkpoint",
+  "number": "38",
+  "title": "",
+  "body": "  When and are nonzero, show that   and    "
+},
+{
+  "id": "ex-complex-27",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-27",
+  "type": "Checkpoint",
+  "number": "39",
+  "title": "",
+  "body": "   Prove by induction that conjugation distributes over finite sums and products.  If are real, prove that     "
+},
+{
+  "id": "ex-complex-28",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-28",
+  "type": "Checkpoint",
+  "number": "40",
+  "title": "",
+  "body": "  The triangle inequality states that    Explain this geometrically.  Prove it algebraically.    "
+},
+{
+  "id": "ex-complex-29",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-29",
+  "type": "Checkpoint",
+  "number": "41",
+  "title": "",
+  "body": "  Show that   whenever .   "
+},
+{
+  "id": "ex-complex-30",
+  "level": "2",
+  "url": "complexnumbers.html#ex-complex-30",
+  "type": "Checkpoint",
+  "number": "42",
+  "title": "",
+  "body": "  Show that if , then    "
 }
 ]
 
