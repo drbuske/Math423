@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<handout xml:id="complexnumbers">
+  <title>Complex Numbers</title>
+
+<section xml:id="sums-products">
+    <title>Sums and Products</title>
+
+    <definition xml:id="def-complex-numbers">
+        <title>Complex Numbers</title>
+
+        <statement>
+            <md>
+                \mathbb{C}
+                =
+                \{(x,y):x,y\in\mathbb{R}\}.
+            </md>
+        </statement>
+    </definition>
+
+    <p>
+        Complex numbers of the form
+        <m>(x,0)</m>
+        correspond to points on the real axis.
+        Complex numbers of the form
+        <m>(0,y)</m>
+        correspond to points on the imaginary axis
+        and are called pure imaginary numbers.
+    </p>
+
+    <exercise xml:id="ex-complex-1">
+        <statement>
+            <page>
+            <p workspace="1in">
+                Plot the complex number
+                <m>(-3,4)</m>
+                in the complex plane.
+            </p>
+            </page>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-2">
+        <statement>
+            <page>
+            <p workspace="1in">
+                It is customary to denote a complex
+                number <m>(x,y)</m> by <m>z</m>
+                so that <m>z=(x,y)</m>.
+                When this is done, we have
+                Re(<m>z</m>) = _____ and
+                Im(<m>z</m>) = _____.
+            </p>
+            </page>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-3">
+        <statement>
+            <page>
+            <p workspace="1in">
+                How can you check whether two
+                complex numbers
+                <m>z_1=(x_1,y_1)</m> and
+                <m>z_2=(x_2,y_2)</m>
+                are equal?
+            </p>
+            </page>
+        </statement>
+    </exercise>
+</section>
+
+<section xml:id="basic-algebraic-properties">
+    <title>Basic Algebraic Properties</title>
+
+    <exercise xml:id="ex-complex-9">
+        <statement>
+            <page>
+            <p workspace="2in">
+                The <term>associative property</term> of complex
+                multiplication states that for all complex numbers
+                <m>z_1</m>, <m>z_2</m>, and <m>z_3</m>,
+            </p>
+
+            <me>
+                (z_1z_2)z_3=z_1(z_2z_3).
+            </me>
+
+            <p>State each of the following properties.</p>
+
+            <ol marker="(a)">
+                <li>
+                    The associative property of complex addition.
+                </li>
+                <li>
+                    The <term>commutative property</term> of complex
+                    multiplication.
+                </li>
+                <li>
+                    The commutative property of complex addition.
+                </li>
+                <li>
+                    A <term>distributive property</term> for the
+                    complex numbers.
+                </li>
+            </ol>
+            </page>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-10">
+        <statement>
+            <page>
+            <p workspace="1in">
+                Suppose that you wish to compute
+                <m>(3+4i)(5+6i)(7+8i)</m>.
+                Should you multiply
+                <m>3+4i</m> and <m>5+6i</m> together first,
+                or should you multiply
+                <m>5+6i</m> and <m>7+8i</m> together first?
+                Explain.
+            </p>
+            </page>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-11">
+        <statement>
+            <page>
+            <p workspace="1in">
+                Use the associative law for addition and the
+                distributive law to show that
+            </p>
+
+            <me>
+                z(z_1+z_2+z_3)
+                =
+                zz_1+zz_2+zz_3.
+            </me>
+            </page>
+        </statement>
+    </exercise>
+
+    <definition xml:id="def-identities">
+        <title>Additive and Multiplicative Identities</title>
+
+        <statement>
+            <p>
+                The <term>additive identity</term>
+                <m>0=(0,0)</m> and the
+                <term>multiplicative identity</term>
+                <m>1=(1,0)</m> for
+                <m>\mathbb{R}</m> carry over to
+                <m>\mathbb{C}</m>.
+                That is,
+                <m>z+0=z</m> and
+                <m>z\cdot 1=z</m>
+                for every
+                <m>z\in\mathbb{C}</m>.
+            </p>
+        </statement>
+    </definition>
+
+    <exercise xml:id="ex-complex-12">
+        <statement>
+            <p>
+                What is the multiplicative inverse of the
+                complex number
+                <m>z=3+4i=(3,4)</m>?
+                Is it unique?
+            </p>
+
+            <p>
+                <em>Hint.</em>
+                If <m>(u,v)</m> is such an inverse, then
+            </p>
+
+            <me>
+                (3,4)(u,v)=(1,0).
+            </me>
+
+            <p>
+                This fact gives two equations in the two
+                unknowns <m>u</m> and <m>v</m>.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-13">
+        <statement>
+            <ol marker="(a)">
+                <li>
+                    What is the additive inverse of a complex
+                    number <m>z=(x,y)</m>?
+                </li>
+
+                <li>
+                    Prove that any complex number
+                    <m>(u,v)</m> that is added to
+                    <m>z=(x,y)</m> and sums to
+                    <m>(0,0)</m> is indeed the additive
+                    inverse found in part (a).
+                </li>
+            </ol>
+
+            <p>
+                That is, prove that the additive inverse found
+                in part (a) is unique.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-14">
+        <statement>
+            <p>
+                Reduce each of the following quantities
+                to a real number.
+            </p>
+
+            <ol marker="(a)">
+                <li>
+                    <m>\frac{1+2i}{3-4i}
+                    +
+                    \frac{2-i}{5i}</m>
+                </li>
+
+                <li>
+                    <m>
+                    \frac{5i}
+                    {(1-i)(2-i)(3-i)}
+                    </m>
+                </li>
+
+                <li>
+                    <m>(1-i)^4</m>
+                </li>
+            </ol>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-15">
+        <statement>
+            <p>
+                Use the associative and commutative laws
+                for multiplication to show that
+            </p>
+
+            <me>
+                (z_1z_2)(z_3z_4)
+                =
+                (z_1z_3)(z_2z_4).
+            </me>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-16">
+        <statement>
+            <p>
+                Solve the equation
+            </p>
+
+            <me>
+                z^2+z+1=0
+            </me>
+
+            <p>
+                for <m>z=(x,y)</m> by writing
+            </p>
+
+            <md>
+                (x,y)(x,y)+(x,y)+(1,0)
+                =
+                (0,0)
+            </md>
+
+            <p>
+                and then solving a pair of simultaneous
+                equations in <m>x</m> and <m>y</m>.
+            </p>
+
+            <p>
+                <em>Suggestion.</em>
+                Use the fact that no real number <m>x</m>
+                satisfies the given equation to show that
+                <m>y\neq 0</m>.
+            </p>
+        </statement>
+    </exercise>
+
+</section>
+
+<section xml:id="further-algebraic-properties">
+    <title>Further Algebraic Properties</title>
+
+    <definition xml:id="def-division">
+        <title>Division</title>
+
+        <statement>
+            <p>
+                For <m>z_2 \neq 0</m>, we define
+            </p>
+
+            <me>
+                \frac{z_1}{z_2}
+                =
+                z_1 z_2^{-1},
+            </me>
+
+            <p>
+                where <m>z_2^{-1}</m> is the multiplicative
+                inverse of <m>z_2</m>.
+            </p>
+        </statement>
+    </definition>
+
+    <exercise xml:id="ex-complex-17">
+        <statement>
+            <p>
+                Suppose that
+            </p>
+
+            <me>
+                \frac{2-i}{3+4i}
+                =
+                (a,b)
+            </me>
+
+            <p>
+                for some real numbers <m>a</m> and <m>b</m>.
+                Determine these values.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-18">
+        <statement>
+            <p>
+                Let <m>z_1</m> and <m>z_2</m> be complex numbers.
+            </p>
+
+            <ol marker="(a)">
+                <li>
+                    Write
+                    <m>(z_1+z_2)^4</m>
+                    as a linear combination of powers of
+                    <m>z_1</m> and <m>z_2</m>.
+                </li>
+
+                <li>
+                    Prove by mathematical induction that
+                </li>
+            </ol>
+
+            <me>
+                (z_1+z_2)^n
+                =
+                \sum_{k=0}^{n}
+                \frac{n!}
+                     {k!(n-k)!}
+                z_1^{\,n-k} z_2^{\,k},
+            </me>
+
+            <p>
+                for every integer <m>n\ge 1</m>.
+            </p>
+        </statement>
+    </exercise>
+
+</section>
+
+<section xml:id="vectors-and-moduli">
+    <title>Vectors and Moduli</title>
+
+<figure xml:id="fig-complex-number-vector">
+    <caption>
+        A complex number <m>z=x+iy</m> represented as a vector in the
+        complex plane.
+    </caption>
+<image xml:id="fig-complex-number-vector-img" width="50%">
+    <description>
+        The complex plane is shown with horizontal real axis
+        and vertical imaginary axis. A vector extends from the
+        origin to a point in the first quadrant labeled
+        z=x+iy. The diagram illustrates the correspondence
+        between a complex number and a vector in the plane.
+    </description>
+    <latex-image>
+\begin{tikzpicture}[every node/.style={font=\large},scale=1]
+   \draw[step=1cm,color=gray!50] (-1,-1) grid (6,4);
+   \draw [black!60,line width=1.5pt,-latex] (0,0) -- (6,0) node [below] at (5.5,0) {Re $z$};
+   \draw [black!60,line width=1.5pt,-latex] (0,0) -- (0,4) node [right] at (0,3.5) {Im $z$};
+   \draw [black!60,line width=1.5pt,-latex] (0,0) -- (-1,0);
+   \draw [black!60,line width=1.5pt,-latex] (0,0) -- (0,-1);
+   \draw [linecolor,line width=2.5pt,-latex] (0,0) -- (5,3);
+   \fill (5,3) circle (4pt) node [right] at (5.1,3.1) {$z = x + iy$};
+  \end{tikzpicture}
+    </latex-image>
+    </image>
+    </figure>
+
+
+    <p>
+        With each nonzero complex number
+        <m>z=x+iy</m>
+        we can associate a vector.
+    </p>
+
+    <figure xml:id="fig-vector-addition">
+        <caption>
+            Vector addition represented by a parallelogram.
+        </caption>
+    </figure>
+
+    <p>
+        Addition of complex numbers is the same as vector addition.
+        That is, <m>z_1+z_2</m> is the vector that forms the
+        diagonal of the parallelogram determined by
+        <m>z_1</m> and <m>z_2</m>.
+    </p>
+
+    <definition xml:id="def-modulus">
+        <title>Modulus</title>
+
+        <statement>
+            <p>
+                The <term>modulus</term> of a complex number
+                <m>z=x+iy</m> is
+            </p>
+
+            <me>
+                \|z\| = \sqrt{x^2+y^2}.
+            </me>
+        </statement>
+    </definition>
+
+    <ul>
+        <li>
+            <m>\|z\|</m> is the length of the vector
+            representing <m>z</m>.
+        </li>
+
+        <li>
+            If <m>z</m> is real, then <m>\|z\|</m>
+            is simply its absolute value.
+        </li>
+
+        <li>
+            While <m>z_1&lt;z_2</m> has no meaning,
+            <m>\|z_1\|&lt;\|z_2\|</m> does.
+        </li>
+    </ul>
+
+    <exercise xml:id="ex-complex-19">
+        <statement>
+            <p>
+                Compute
+                <m>\|3+4i\|</m>,
+                <m>\|3-4i\|</m>, and
+                <m>\|-4-3i\|</m>.
+                What does this tell you about the relationship
+                among these three complex numbers?
+            </p>
+        </statement>
+    </exercise>
+
+    <definition xml:id="def-distance">
+        <title>Distance</title>
+
+        <statement>
+            <p>
+                The <term>distance</term> between two complex
+                numbers <m>z_1</m> and <m>z_2</m> is
+            </p>
+
+            <me>
+                \|z_1-z_2\|.
+            </me>
+        </statement>
+    </definition>
+
+    <figure xml:id="fig-distance">
+        <caption>
+            The vector from <m>z_2</m> to <m>z_1</m>.
+        </caption>
+    </figure>
+
+    <exercise xml:id="ex-complex-20">
+        <statement>
+            <p>
+                Geometrically describe the set of all points
+                <m>z</m> satisfying the following conditions.
+            </p>
+
+            <ol marker="(a)">
+                <li>
+                    <m>\|z-i+3\|=5</m>
+                </li>
+
+                <li>
+                    <m>\|z-i+3\|&gt;5</m>
+                </li>
+
+                <li>
+                    <m>\operatorname{Im}(z)\ge 0</m>
+                </li>
+            </ol>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-21">
+        <statement>
+            <p>
+                Locate the numbers
+                <m>z_1+z_2</m> and
+                <m>z_1-z_2</m>
+                vectorially when
+            </p>
+
+            <ol marker="(a)">
+                <li>
+                    <m>z_1=2i</m>,
+                    <m>z_2=\frac{2}{3}-i</m>.
+                </li>
+
+                <li>
+                    <m>z_1=(-\sqrt{3},1)</m>,
+                    <m>z_2=(\sqrt{3},0)</m>.
+                </li>
+            </ol>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-22">
+        <statement>
+            <p>
+                Geometrically describe the set
+            </p>
+
+            <me>
+                \left\{
+                z\in\mathbb{C}:
+                \|z-2\|+\|z+2\|=5
+                \right\}.
+            </me>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-23">
+        <statement>
+            <p>
+                Geometrically describe the set
+            </p>
+
+            <me>
+                \left\{
+                z\in\mathbb{C}:
+                \|z-1\|=\|z+i\|
+                \right\}.
+            </me>
+        </statement>
+    </exercise>
+
+    <figure xml:id="fig-re-im-modulus">
+        <caption>
+            Relationship among the real part, imaginary part,
+            and modulus of a complex number.
+        </caption>
+    </figure>
+
+    <p>
+        From the diagram, we have
+    </p>
+
+    <me>
+        |\operatorname{Re}(z)| \le \|z\|,
+    </me>
+
+    <me>
+        |\operatorname{Im}(z)| \le \|z\|,
+    </me>
+
+    <p>
+        and
+    </p>
+
+    <me>
+        \|z\|^2
+        =
+        (\operatorname{Re}(z))^2
+        +
+        (\operatorname{Im}(z))^2.
+    </me>
+
+</section>
+
+<section xml:id="complex-conjugates">
+    <title>Complex Conjugates</title>
+
+    <definition xml:id="def-complex-conjugate">
+        <title>Complex Conjugate</title>
+
+        <statement>
+            <p>
+                The <term>complex conjugate</term> of
+                <m>z=x+iy</m> is
+            </p>
+
+            <me>
+                \overline{z}=x-iy.
+            </me>
+
+            <p>
+                Geometrically, <m>\overline{z}</m> is the
+                reflection of <m>z</m> across the real axis.
+            </p>
+        </statement>
+    </definition>
+
+    <exercise xml:id="ex-complex-24">
+        <statement>
+            <p>Prove any three of the following statements.</p>
+
+            <ol marker="(a)">
+                <li><m>\overline{\overline{z}}=z</m></li>
+                <li><m>\|\overline{z}\|=\|z\|</m></li>
+                <li><m>\overline{z_1+z_2}=\overline{z_1}+\overline{z_2}</m></li>
+                <li><m>\overline{z_1-z_2}=\overline{z_1}-\overline{z_2}</m></li>
+                <li><m>\overline{z_1z_2}=\overline{z_1}\,\overline{z_2}</m></li>
+                <li><m>\overline{\frac{z_1}{z_2}}
+                   =\frac{\overline{z_1}}{\overline{z_2}}</m></li>
+                <li><m>z+\overline z=2\operatorname{Re}(z)</m></li>
+                <li><m>z\overline z=\|z\|^2</m></li>
+            </ol>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-25">
+        <statement>
+            <p>
+                Sketch the set of points satisfying
+                <m>\operatorname{Re}(\overline z-i)=2</m>.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-26">
+        <statement>
+            <p>
+                When <m>z_2</m> and <m>z_3</m> are nonzero,
+                show that
+            </p>
+
+            <me>
+                \overline{\left(
+                \frac{z_1}{z_2z_3}
+                \right)}
+                =
+                \frac{\overline{z_1}}
+                {\overline{z_2}\,\overline{z_3}}
+            </me>
+
+            <p>and</p>
+
+            <me>
+                \left\|
+                \frac{z_1}{z_2z_3}
+                \right\|
+                =
+                \frac{\|z_1\|}
+                {\|z_2\|\|z_3\|}.
+            </me>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-27">
+        <statement>
+            <ol marker="(a)">
+                <li>
+                    Prove by induction that conjugation
+                    distributes over finite sums and products.
+                </li>
+
+                <li>
+                    If
+                    <m>a_0,\dots,a_n</m>
+                    are real, prove that
+                </li>
+            </ol>
+
+            <me>
+                \overline{
+                a_0+a_1z+\cdots+a_nz^n}
+                =
+                a_0+a_1\overline z+\cdots+a_n\overline z^n.
+            </me>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-28">
+        <statement>
+            <p>
+                The triangle inequality states that
+            </p>
+
+            <me>
+                \|z_1+z_2\|
+                \le
+                \|z_1\|+\|z_2\|.
+            </me>
+
+            <ol marker="(a)">
+                <li>Explain this geometrically.</li>
+                <li>Prove it algebraically.</li>
+            </ol>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-29">
+        <statement>
+            <p>Show that</p>
+
+            <me>
+                |\operatorname{Re}(2+\overline z+z^3)|
+                \le 4
+            </me>
+
+            <p>whenever <m>\|z\|\le 1</m>.</p>
+        </statement>
+    </exercise>
+
+    <exercise xml:id="ex-complex-30">
+        <statement>
+            <p>
+                Show that if <m>\|z\|=2</m>, then
+            </p>
+
+            <me>
+                \left\|
+                \frac{1}
+                {z^4-4z^2+3}
+                \right\|
+                \le
+                \frac13.
+            </me>
+        </statement>
+    </exercise>
+</section>
+
+</handout>

@@ -8,20 +8,18 @@
   <book>
     <title>MATH 423</title>
 
-    <subtitle>MATH xxx Semester 20xx</subtitle>
+    <subtitle>Complex Analysis with Applications</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
-    <xi:include href="./frontmatter.ptx" />
+       <xi:include href="./frontmatter.ptx" />
 
-    <chapter xml:id="course-documents">
+   <!-- <chapter xml:id="course-documents">
       <title>Course Documents</title>
 
-      <!-- Course syllabus -->
       <xi:include href="./syllabus/syllabus.ptx" />
-      <!-- Other documents could go here, like a schedule, project description, etc. -->
-    </chapter>
+    </chapter> -->
 
-    <chapter xml:id="course-notes">
+   <!-- <chapter xml:id="course-notes">
       <title>Course Notes</title>
 
       <introduction>
@@ -33,12 +31,52 @@
 
       <xi:include href="./notes/week01.ptx"/>
       <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
 
-    </chapter>
+    </chapter> -->
 
+     <!-- <chapter xml:id="syllabuschapter">
+      <title>Syllabus</title> -->
+        <xi:include href="./syllabus/syllabus.ptx" />
+     <!-- </chapter> -->
+    
+    <chapter xml:id="mynotes">
+      <title>Class Notes</title>
+  <xi:include href="./handouts/chapter1notes.ptx" />
+      </chapter>
+      
+    <!-- <chapter xml:id="handouts">
+      <title>Daily Prep</title>
+      <xi:include href="./handouts/handout-filename.ptx"/>
+      <xi:include href="./handouts/11PrepAverageVelocity.ptx"/>
+      <xi:include href="./handouts/12PrepNotionOfLimit.ptx"/> 
+      <xi:include href="./handouts/13PrepDerivativeAtAPoint.ptx"/> 
+      <xi:include href="./handouts/14PrepTheDerivativeFunction.ptx"/>
+      <xi:include href="./handouts/15PrepInterpretEstimateDerivative.ptx"/>
+      <xi:include href="./handouts/16PrepSecondDerivative.ptx"/>
+      <xi:include href="./handouts/17PrepLimitsContinuityDifferentiability.ptx"/>
+      <xi:include href="./handouts/18PrepTangentLine.ptx"/>
+      <xi:include href="./handouts/21PrepElementaryDerivativeRules.ptx"/>
+      <xi:include href="./handouts/22PrepSineAndCosine.ptx"/>
+      <xi:include href="./handouts/23PrepProductAndQuotientRules.ptx"/>
+      <xi:include href="./handouts/24PrepDerivativesOfOtherTrigFunctions.ptx"/>
+      <xi:include href="./handouts/25PrepChainRule.ptx"/>
+      <xi:include href="./handouts/26PrepInverseFunctions.ptx"/>
+      <xi:include href="./handouts/27PrepImplicitDifferentiation.ptx"/>
+      <xi:include href="./handouts/31PrepRelatedRates.ptx"/>
+      <xi:include href="./handouts/32PrepUsingDerivativesEvaluateLimits.ptx"/>
+      <xi:include href="./handouts/33PrepExtremeValues.ptx"/>
+      <xi:include href="./handouts/35PrepGlobalOptimization.ptx"/>
+      <xi:include href="./handouts/36PrepAppliedOptimization.ptx"/>
+      <xi:include href="./handouts/41PrepDeterminingDistanceFromVelocity.ptx"/> 
+      <xi:include href="./handouts/42PrepRiemannSums.ptx"/> 
+      <xi:include href="./handouts/43PrepTheDefiniteIntegral.ptx"/>
+      <xi:include href="./handouts/44PrepFundamentalTheoremCalculus.ptx"/>
+      <xi:include href="./handouts/51PrepConstructingAntiderivatives.ptx"/>
+      <xi:include href="./handouts/52PrepSecondFundamentalThmOfCalculus.ptx"/>
+      <xi:include href="./handouts/53PrepIntegrationBySubstitution.ptx"/> 
+    </chapter> -->
 
-    <chapter xml:id="activities">
+    <!-- <chapter xml:id="activities">
       <title>In-Class Activities</title>
 
       <introduction>
@@ -47,25 +85,108 @@
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
+    <paragraphs>Chapter 1 Activities</paragraphs> 
 
-      <!-- Add more xi:include files here to include them in the main course -->
-    </chapter>
+      <xi:include href="./class-activities/act-1-1-1.xml"/>
+      <xi:include href="./class-activities/act-1-1-2.xml"/>
+      <xi:include href="./class-activities/act-1-1-3.xml"/>
+      <xi:include href="./class-activities/act-1-2-1.xml"/>
+      <xi:include href="./class-activities/act-1-2-2.xml"/>
+      <xi:include href="./class-activities/act-1-2-3.xml"/>
+      <xi:include href="./class-activities/act-1-3-1.xml"/>
+      <xi:include href="./class-activities/act-1-3-5.ptx"/>  
+      <xi:include href="./class-activities/act-1-4-1.xml"/>
+      <xi:include href="./class-activities/act-1-4-2.xml"/>
+      <xi:include href="./class-activities/act-1-4-5.xml"/>
+      <xi:include href="./class-activities/act-1-5-1.xml"/>
+      <xi:include href="./class-activities/act-1-5-2.xml"/>
+      <xi:include href="./class-activities/act-1-5-5.ptx"/>
+      <xi:include href="./class-activities/act-1-6-2.xml"/>
+      <xi:include href="./class-activities/act-1-6-5.ptx"/>
+      <xi:include href="./class-activities/act-1-7-1.xml"/>
+      <xi:include href="./class-activities/act-1-7-2.xml"/>
+      <xi:include href="./class-activities/act-1-7-3.xml"/>
+      <xi:include href="./class-activities/act-1-8-1.xml"/>
+      <xi:include href="./class-activities/act-1-8-2.xml"/> 
 
-    <chapter xml:id="handouts">
-      <title>Handouts</title>
-      <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
-    </chapter>
+  </section>
+  <section xml:id="ACchapter2activities"> 
+    <paragraphs>Chapter 2 Activities</paragraphs> 
+      <xi:include href="./class-activities/act-2-1-1.xml"/>
+      <xi:include href="./class-activities/act-2-1-2.xml"/>
+      <xi:include href="./class-activities/act-2-1-3.xml"/>
+      <xi:include href="./class-activities/act-2-2-3.xml"/>
+      <xi:include href="./class-activities/act-2-3-1.xml"/>
+      <xi:include href="./class-activities/act-2-3-3.xml"/>
+      <xi:include href="./class-activities/act-2-4-4.xml"/>
+      <xi:include href="./class-activities/act-2-5-0.xml"/>
+      <xi:include href="./class-activities/act-2-5-1.xml"/>
+      <xi:include href="./class-activities/act-2-5-2.xml"/>
+      <xi:include href="./class-activities/act-2-6-1.xml"/>
+      <xi:include href="./class-activities/act-2-6-4.xml"/>
+      <xi:include href="./class-activities/act-2-7-1.xml"/>
+      <xi:include href="./class-activities/act-2-7-3.xml"/> 
+   </section>
 
-    <chapter xml:id="homework">
+    <section xml:id="ACchapter3activities"> 
+    <p>Chapter 3 Activities</p> 
+      <xi:include href="./class-activities/act-3-1-0.xml"/>
+      <xi:include href="./class-activities/act-3-1-1.xml"/>
+      <xi:include href="./class-activities/act-3-1-3.xml"/>
+      <xi:include href="./class-activities/act-3-1-4.xml"/>
+      <xi:include href="./class-activities/act-3-2-2.xml"/>
+      <xi:include href="./class-activities/act-3-2-3.xml"/>
+      <xi:include href="./class-activities/act-3-3-1.xml"/>
+      <xi:include href="./class-activities/act-3-3-2.xml"/>
+      <xi:include href="./class-activities/act-3-5-2.xml"/>
+      <xi:include href="./class-activities/act-3-5-3.xml"/>
+      <xi:include href="./class-activities/act-3-6-0.xml"/>
+      <xi:include href="./class-activities/act-3-6-1.xml"/>
+      <xi:include href="./class-activities/act-3-6-2.xml"/>
+   </section> 
+
+    <section xml:id="ACchapter3activities"> 
+    <p>Chapter 4 Activities</p> 
+      <xi:include href="./class-activities/act-4-1-1.xml"/>
+      <xi:include href="./class-activities/act-4-1-2.xml"/>
+      <xi:include href="./class-activities/act-4-1-3.xml"/>
+      <xi:include href="./class-activities/act-4-2-1.xml"/>
+      <xi:include href="./class-activities/act-4-2-5.xml"/>
+      <xi:include href="./class-activities/act-4-3-1.xml"/>
+      <xi:include href="./class-activities/act-4-3-2.xml"/>
+      <xi:include href="./class-activities/act-4-4-1.xml"/>
+      <xi:include href="./class-activities/act-4-4-2.xml"/>
+      <xi:include href="./class-activities/act-4-4-5.xml"/>
+      <xi:include href="./class-activities/act-5-1-2.xml"/>
+      <xi:include href="./class-activities/act-5-1-3.xml"/>
+      <xi:include href="./class-activities/act-5-2-2.xml"/>
+      <xi:include href="./class-activities/act-5-2-3.xml"/>
+      <xi:include href="./class-activities/act-5-3-1.xml"/>
+      <xi:include href="./class-activities/act-5-3-2.xml"/>
+      <xi:include href="./class-activities/act-5-3-3.xml"/> 
+      </section> 
+
+      Add more xi:include files here to include them in the main course 
+    </chapter> -->
+
+ <!-- <chapter xml:id="past_exams">
+      <title>Past Exams</title>
+    <xi:include href="./handouts/Sp26Exam1.ptx"/>
+    <xi:include href="./handouts/F25Exam1.ptx"/>
+    <xi:include href="./handouts/F24Exam1.ptx"/>
+    <xi:include href="./handouts/Sp26Exam2.ptx"/>
+    <xi:include href="./handouts/F25Exam2.ptx"/>
+    <xi:include href="./handouts/Sp26Exam3.ptx"/>
+    <xi:include href="./handouts/F25Exam3.ptx"/>
+    
+ </chapter> -->
+
+    <!-- <chapter xml:id="homework">
       <title>Homework</title>
 
-      <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
+      <xi:include href="./homework/homework01.ptx"/>
 
-    </chapter>
+    </chapter> -->
 
     <!-- Include additional chapters for other categories -->
 

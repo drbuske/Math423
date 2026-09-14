@@ -466,7 +466,7 @@ To be successful, sufficient time will need to be dedicated to your studies.  St
   
 
       <li>
-        <title>Written Homework</title>
+        <title>Homework</title>
         <p>
           Each Thursday, hand-written solutions to problems from the textbook will be due.  Additional problems that are not from the textbook may also be assigned from time-to-time.  You must document names of other people (e.g. students, faculty) and AI systems that you consult.  Overconsultation with AI systems will likely be obvious, potentially non-productive, and potentially academically dishonest.  Remember that your goal in this class is to learn mathematics and the honest struggle is often the best way to navigate towards this goal.  
         </p>
@@ -494,73 +494,73 @@ To be successful, sufficient time will need to be dedicated to your studies.  St
     <row>
       <cell><alert>9/3</alert></cell>
       
-      <cell>Section 3: #2; Section 4: #4, 5; Section 5: #2, 7, 9, 11, 12</cell>
+      <cell><p>Section 3: #2; </p> <p> Section 4: #4, 5; </p> <p>Section 5: #2, 7, 9, 11, 12</p></cell>
       <!-- <cell>2.3 The span of a set of vectors</cell> -->
 
     </row>
 
     <row>
-      <cell><alert>9/10</alert></cell>
+      <cell><alert>9/15</alert></cell>
    
-      <cell>Section 8: #1(b), 3, 4, 5(c); Section 10: #3(a), 8(b); Section 11: #1(a)(c)(e)(f), 2,  6, 7(a)(b); Section 12: 1(a)(d), 3, 4</cell>
+      <cell><p>Section 8: #1(b), 3, 4, 5(c); </p> <p> Section 10: #3(a), 8(b); </p> <p> Section 11: #1(a)(c)(e)(f), 2,  6, 7(a)(b); </p> <p> Section 12: 1(a)(d), 3, 4</p> </cell>
       <!-- <cell>1.5</cell> -->
 
     </row>
 
     <row>
-      <cell><alert>9/17</alert></cell>
+      <cell><alert>9/22</alert></cell>
  
-      <cell>Section 14: #2, 3, 7; Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)</cell>
+      <cell><p> Section 14: #2, 3, 7; </p> <p> Section 18: #1(b)(c), 2(a)(b), 5, 10(a)(b)</p></cell>
       <!-- <cell><alert>Review &amp; Exam 3</alert></cell> -->
 
 
     </row>
 
     <row>
-      <cell><alert>9/24</alert></cell>
+      <cell><alert>9/29</alert></cell>
 
-      <cell>Section 20: #4, 6, 7, 8; Section 23: #1(b), 2(c), 3(c), 4(b), 8</cell>
+      <cell><p> Section 20: #4, 6, 7, 8; </p> <p> Section 23: #1(b), 2(c), 3(c), 4(b), 8</p></cell>
       <!-- <cell>5.1 Definition of vector spaces</cell> -->
 
 
     </row>
 
     <row>
-      <cell><alert>10/1</alert></cell>
+      <cell><alert>10/6</alert></cell>
 
-      <cell>Section 25: #1(b), 2(c), 7; Section 26: #1(d), 2, 3, 5 </cell>
+      <cell><p>Section 25: #1(b), 2(c), 7; </p> <p> Section 26: #1(d), 2, 3, 5 </p></cell>
       <!-- <cell>6.1 The dot product</cell> -->
 
 
     </row>
 
     <row>
-      <cell><alert>10/8</alert></cell>
+      <cell><alert>10/13</alert></cell>
   
-      <cell>Section 29: #3, 5, 7, 8(b), 10, 13; Section 31: #1(a), 4(b), 5(b); Section 32: #1, 3; Section 33: #2(c), 3, 9; Section 34: #2, 9, 11, 13</cell>
+      <cell><p> Section 29: #3, 5, 7, 8(b), 10, 13; </p> <p> Section 31: #1(a), 4(b), 5(b); </p> <p> Section 32: #1, 3; </p> <p> Section 33: #2(c), 3, 9; </p> <p> Section 34: #2, 9, 11, 13</p> </cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
 
     </row>
 
         <row>
-      <cell><alert>10/15</alert></cell>
+      <cell><alert>10/20</alert></cell>
   
-      <cell>Section 35: #3, 6, 15(b); Section 36: #1(b), 5; Section 38: #1(b), 3, 4, 5; Section 39: #1(a), 5</cell>
+      <cell><p> Section 35: #3, 6, 15(b); </p> <p> Section 36: #1(b), 5; </p> <p> Section 38: #1(b), 3, 4, 5; </p> <p> Section 39: #1(a), 5</p> </cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
 
     </row>
 
       <row>
-      <cell><alert>10/22</alert></cell>
+      <cell><alert>10/27</alert></cell>
 
-      <cell>Section 42: #1, 2, 4, 6, 7, 10; Section 43: #1, 2, 4</cell>
+      <cell><p> Section 42: #1, 2, 4, 6, 7, 10; </p> <p> Section 43: #1, 2, 4</p> </cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
   
 
     </row>
 
      <row>
-      <cell><alert>10/29</alert></cell>
+      <cell><alert>11/3</alert></cell>
 
       <cell>Section 45: #3, 5</cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
@@ -569,32 +569,32 @@ To be successful, sufficient time will need to be dedicated to your studies.  St
     </row>
 
       <row>
-      <cell><alert>11/5</alert></cell>
+      <cell><alert>11/10</alert></cell>
 
-      <cell>Section 49: #1(a)(f), 3, 6; Section 52: #1(a)(b), 2(a), 3, 7</cell>
+      <cell><p> Section 49: #1(a)(f), 3, 6; </p> <p> Section 52: #1(a)(b), 2(a), 3, 7</p> </cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
  
 
     </row>
 
       <row>
-      <cell><alert>11/12</alert></cell>
+      <cell><alert>11/17</alert></cell>
       <cell>Section 54: #1, 3, 4, 5</cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
   
     </row>
 
      <row>
-      <cell><alert>11/19</alert></cell>
+      <cell><alert>11/24</alert></cell>
 
-      <cell>Section 56: #3, 4, 6; Section 59: #1, 3, 6, 7; Section 62: 1, 3, 5, 6, 7</cell>
+      <cell><p> Section 56: #3, 4, 6; </p> <p> Section 59: #1, 3, 6, 7; </p> <p> Section 62: 1, 3, 5, 6, 7</p></cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
 
 
     </row>
 
          <row>
-      <cell><alert>11/26</alert></cell>
+      <cell><alert>12/1</alert></cell>
 
       <cell>Nothing Due</cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->
@@ -603,7 +603,7 @@ To be successful, sufficient time will need to be dedicated to your studies.  St
     </row>
 
       <row>
-      <cell><alert>12/3</alert></cell>
+      <cell><alert>At final exam</alert></cell>
 
       <cell>Section 66: #3, 4, 6, 11</cell>
       <!-- <cell>6.5 Orthogonal least squares</cell> -->

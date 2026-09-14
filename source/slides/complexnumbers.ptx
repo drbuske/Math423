@@ -1,0 +1,189 @@
+<slideshow xml:id="complex-numbers">
+    <title>Complex Numbers</title>
+
+    <slide xml:id="slide-title">
+        <title>Complex Numbers</title>
+        <p>Chapter 1</p>
+        <p>Dale Buske</p>
+        <p>St. Cloud State University</p>
+    </slide>
+
+        <slide xml:id="complex-numbers-def">
+            <title>Sums and Products</title>
+
+            <definition>
+                <title>Complex Numbers</title>
+
+                <statement>
+                    <md>
+                        \mathbb{C}
+                        =
+                        \left\{(x,y):x,y\in\mathbb{R}\right\}
+                    </md>
+                </statement>
+            </definition>
+
+            <p>
+                Complex numbers of the form <m>(x,0)</m>
+                correspond to points on the real axis.
+                Complex numbers of the form <m>(0,y)</m>
+                correspond to points on the imaginary axis and are
+                called pure imaginary numbers.
+            </p>
+
+            <exercise xml:id="ex-1">
+                <statement>
+                    <p>
+                        Plot the complex number
+                        <m>(-3,4)</m> in the complex plane.
+                    </p>
+                </statement>
+            </exercise>
+        </slide>
+
+        <slide xml:id="slide-re-im">
+            <title>Sums and Products</title>
+
+            <exercise xml:id="ex-2">
+                <statement>
+                    <p>
+                        It is customary to denote a complex number
+                        <m>(x,y)</m> by <m>z</m> so that
+                        <m>z=(x,y)</m>.
+                        When this is done, we have
+                        Re(<m>z</m>) =
+                        ______ and
+                        Im(<m>z</m>) =
+                        ______.
+                    </p>
+                </statement>
+            </exercise>
+
+            <exercise xml:id="ex-3">
+                <statement>
+                    <p>
+                        How can you check whether two complex numbers
+                        <m>z_1=(x_1,y_1)</m> and
+                        <m>z_2=(x_2,y_2)</m>
+                        are equal?
+                    </p>
+                </statement>
+            </exercise>
+        </slide>
+
+        <slide xml:id="slide-complex-arithmetic">
+            <title>Sums and Products</title>
+
+            <definition>
+                <title>Complex Arithmetic</title>
+
+                <statement>
+                    <p>
+                        The sum <m>z_1+z_2</m> and product
+                        <m>z_1z_2</m> of two complex numbers
+                        <m>z_1=(x_1,y_1)</m> and
+                        <m>z_2=(x_2,y_2)</m>
+                        are defined by
+                    </p>
+
+                    <md>
+(x_1,y_1)+(x_2,y_2)
+=
+(x_1+x_2,y_1+y_2)
+                    </md>
+
+                    <md>
+(x_1,y_1)(x_2,y_2)
+=
+(x_1x_2-y_1y_2,\,
+y_1x_2+x_1y_2)
+                    </md>
+                </statement>
+            </definition>
+
+            <exercise xml:id="ex-4">
+                <statement>
+                    <p>
+                        Compute
+                        <m>(2,-3)(-2,1)</m>.
+                    </p>
+                </statement>
+            </exercise>
+
+            <exercise xml:id="ex-5">
+                <statement>
+                    <p>
+                        Restrict addition and multiplication
+                        to complex numbers of the form
+                        <m>(x,0)</m>.
+                        Explain why the complex numbers extend
+                        the real numbers.
+                    </p>
+                </statement>
+            </exercise>
+        </slide>
+
+        <slide xml:id="slide-i">
+            <title>Sums and Products</title>
+
+            <definition>
+                <title><m>i</m></title>
+
+                <statement>
+                    <p>
+                        Let
+                        <m>i</m>
+                        denote the pure imaginary number
+                        <m>(0,1)</m>.
+                    </p>
+                </statement>
+            </definition>
+
+            <exercise xml:id="ex-6">
+                <statement>
+                    <ol marker="a">
+                        <li>
+                            Compute
+                            <m>(0,1)(y,0)</m>.
+                        </li>
+                        <li>
+                            Explain why every complex number
+                            may be written in the form
+                            <m>x+iy</m>.
+                        </li>
+                    </ol>
+                </statement>
+            </exercise>
+        </slide>
+
+        <slide xml:id="slide-powers-of-i">
+            <title>Sums and Products</title>
+
+            <exercise xml:id="ex-7">
+                <statement>
+                    <ol marker="a">
+                        <li>
+                            Compute <m>i^2</m>.
+                        </li>
+                        <li>
+                            Compute <m>i^3</m>.
+                        </li>
+                        <li>
+                            Compute <m>i^4</m>.
+                        </li>
+                        <li>
+                            Compute <m>i^5</m>.
+                        </li>
+                        <li>
+                            Compute <m>i^6</m>.
+                        </li>
+                        <li>
+                            Compute
+                            <m>(2-3i)(-2+i)</m>.
+                        </li>
+                    </ol>
+                </statement>
+            </exercise>
+        </slide>
+
+</slideshow>
